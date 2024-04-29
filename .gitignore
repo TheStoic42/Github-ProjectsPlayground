@@ -1,1 +1,4 @@
 node_modules1
+.DS_Store
+.tmp
+npm-debug. log
